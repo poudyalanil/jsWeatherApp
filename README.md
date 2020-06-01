@@ -5,3 +5,6 @@ This is a simple weather app created with Vanilla Javasacript. It is a code alon
 #### Weather Details
 
 All the weather details are fetched from [OpenWeatherMap](https://openweathermap.org/) api using latitudes and longitudes of the current device's location.
+
+Github Pages: 
+[Click Here](https://poudyalanil.github.io/jsWeatherApp/)
